@@ -1,5 +1,5 @@
 # Interface_PTVVisum-LinTim
-This repository contains an example-interface between PTV Visum and LinTim,
+This repository contains an example-interface between "[PTV Visum](https://www.ptvgroup.com/de/loesungenprodukte/ptv-visum/)" and "[LinTim](https://www.lintim.net/)".
 
 # License 
 
