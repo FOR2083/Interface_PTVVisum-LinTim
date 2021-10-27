@@ -1,6 +1,0 @@
-sl_model; all
-sl_forbidden_edges; true
-lpool_restrict_forbidden_edges; true
-lc_respect_fixed_lines; true
-lc_respect_forbidden_edges; true
-tim_respect_fixed_times; true
