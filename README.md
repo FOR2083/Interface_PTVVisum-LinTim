@@ -1,7 +1,5 @@
 # Interface between PTV Visum and LinTim
-The 01_Interface-directory contains a template (00_Dummy) and a example (01_example) for the interface between "[PTV Visum](https://www.ptvgroup.com/de/loesungenprodukte/ptv-visum/)" and "[LinTim](https://www.lintim.net/)" as well as some general scripts and procedure sequences for PTV Visum. The example-files were created with PTV Visum 20.
-
-A detailed manual is available too.
+The 01_Interface-directory contains a template (00_Dummy) and a example (01_example) for the interface between "[PTV Visum](https://www.ptvgroup.com/de/loesungenprodukte/ptv-visum/)" and "[LinTim](https://www.lintim.net/)" as well as some general scripts and procedure sequences for PTV Visum. The example-files were created with PTV Visum 20. A detailed manual is available too.
 
 # License 
 
