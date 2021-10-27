@@ -6,4 +6,4 @@ LinTim to Visum: VIS20_Gateway_LinTim2Visum.xml
   * LinTimToVisumNetPublicTransport.py
   * CreatePuTLineGraphicParameter.py
 
-Further files (.fil, .net) should be contained in a scenario.
+Further files (.fil, .net) should be contained in a scenario. Smaller scripts are directly written in the procedure sequences.
