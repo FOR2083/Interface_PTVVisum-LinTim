@@ -1,0 +1,16 @@
+sl_model; all
+lc_respect_fixed_lines; true
+tim_respect_fixed_times; true
+rollout_whole_trips; true
+sl_forbidden_edges; true
+console_log_level; debug
+lc_respect_forbidden_edges; true
+lpool_min_edges; 1
+lpool_min_distance_leaves; 1
+lpool_node_degree_ratio; 0.3
+lpool_min_cover_factor; 10
+lpool_max_cover_factor; 50
+sl_max_walking_time; 3600
+lpool_restrict_forbidden_edges; true
+lpool_max_iterations; 50
+lpool_append_single_edges; true
