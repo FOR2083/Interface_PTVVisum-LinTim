@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<networkGraphicParameters version="1">
+	<layerParameters>
+		<layers partial="true">
+			<layer draw="true" type="ROUTECOURSES"/>
+		</layers>
+	</layerParameters>
+	<routeCourses aggrType="LINE" drawOnlyActiveLineRoutes="false" intersectionPreference="PREFERINTERSECTINGLINESATNODESWITHMULTIPLELEGS">
+		<display>
+			<lines>
+				<netObj draw="true" name="1">
+					<lineStyle>
+						<strokes>
+							<stroke color="ff000000" dashPattern="1" dashWidth="1" width="3"/>
+							<stroke color="ffff0000" dashPattern="1" dashWidth="1" width="2.5"/>
+						</strokes>
+					</lineStyle>
+				</netObj>
+				<netObj draw="true" name="12">
+					<lineStyle>
+						<strokes>
+							<stroke color="ff000000" dashPattern="1" dashWidth="1" width="3"/>
+							<stroke color="ffff5900" dashPattern="1" dashWidth="1" width="2.5"/>
+						</strokes>
+					</lineStyle>
+				</netObj>
+				<netObj draw="true" name="13">
+					<lineStyle>
+						<strokes>
+							<stroke color="ff000000" dashPattern="1" dashWidth="1" width="3"/>
+							<stroke color="ffffff00" dashPattern="1" dashWidth="1" width="2.5"/>
+						</strokes>
+					</lineStyle>
+				</netObj>
+				<netObj draw="true" name="14">
+					<lineStyle>
+						<strokes>
+							<stroke color="ff000000" dashPattern="1" dashWidth="1" width="3"/>
+							<stroke color="ff00ff19" dashPattern="1" dashWidth="1" width="2.5"/>
+						</strokes>
+					</lineStyle>
+				</netObj>
+				<netObj draw="true" name="15">
+					<lineStyle>
+						<strokes>
+							<stroke color="ff000000" dashPattern="1" dashWidth="1" width="3"/>
+							<stroke color="ff0066ff" dashPattern="1" dashWidth="1" width="2.5"/>
+						</strokes>
+					</lineStyle>
+				</netObj>
+				<netObj draw="true" name="16">
+					<lineStyle>
+						<strokes>
+							<stroke color="ff000000" dashPattern="1" dashWidth="1" width="3"/>
+							<stroke color="ff3200ff" dashPattern="1" dashWidth="1" width="2.5"/>
+						</strokes>
+					</lineStyle>
+				</netObj>
+				<netObj draw="true" name="17">
+					<lineStyle>
+						<strokes>
+							<stroke color="ff000000" dashPattern="1" dashWidth="1" width="3"/>
+							<stroke color="ffb20000" dashPattern="1" dashWidth="1" width="2.5"/>
+						</strokes>
+					</lineStyle>
+				</netObj>
+				<netObj draw="true" name="18">
+					<lineStyle>
+						<strokes>
+							<stroke color="ff000000" dashPattern="1" dashWidth="1" width="3"/>
+							<stroke color="ffb23e00" dashPattern="1" dashWidth="1" width="2.5"/>
+						</strokes>
+					</lineStyle>
+				</netObj>
+				<netObj draw="true" name="19">
+					<lineStyle>
+						<strokes>
+							<stroke color="ff000000" dashPattern="1" dashWidth="1" width="3"/>
+							<stroke color="ffb2b200" dashPattern="1" dashWidth="1" width="2.5"/>
+						</strokes>
+					</lineStyle>
+				</netObj>
+				<netObj draw="true" name="2">
+					<lineStyle>
+						<strokes>
+							<stroke color="ff000000" dashPattern="1" dashWidth="1" width="3"/>
+							<stroke color="ff00b211" dashPattern="1" dashWidth="1" width="2.5"/>
+						</strokes>
+					</lineStyle>
+				</netObj>
+				<netObj draw="true" name="20">
+					<lineStyle>
+						<strokes>
+							<stroke color="ff000000" dashPattern="1" dashWidth="1" width="3"/>
+							<stroke color="ff0047b2" dashPattern="1" dashWidth="1" width="2.5"/>
+						</strokes>
+					</lineStyle>
+				</netObj>
+				<netObj draw="true" name="23">
+					<lineStyle>
+						<strokes>
+							<stroke color="ff000000" dashPattern="1" dashWidth="1" width="3"/>
+							<stroke color="ff2300b2" dashPattern="1" dashWidth="1" width="2.5"/>
+						</strokes>
+					</lineStyle>
+				</netObj>
+				<netObj draw="true" name="24">
+					<lineStyle>
+						<strokes>
+							<stroke color="ff000000" dashPattern="1" dashWidth="1" width="3"/>
+							<stroke color="ff660000" dashPattern="1" dashWidth="1" width="2.5"/>
+						</strokes>
+					</lineStyle>
+				</netObj>
+				<netObj draw="true" name="25">
+					<lineStyle>
+						<strokes>
+							<stroke color="ff000000" dashPattern="1" dashWidth="1" width="3"/>
+							<stroke color="ff662300" dashPattern="1" dashWidth="1" width="2.5"/>
+						</strokes>
+					</lineStyle>
+				</netObj>
+				<netObj draw="true" name="26">
+					<lineStyle>
+						<strokes>
+							<stroke color="ff000000" dashPattern="1" dashWidth="1" width="3"/>
+							<stroke color="ff666600" dashPattern="1" dashWidth="1" width="2.5"/>
+						</strokes>
+					</lineStyle>
+				</netObj>
+				<netObj draw="true" name="28">
+					<lineStyle>
+						<strokes>
+							<stroke color="ff000000" dashPattern="1" dashWidth="1" width="3"/>
+							<stroke color="ff00660a" dashPattern="1" dashWidth="1" width="2.5"/>
+						</strokes>
+					</lineStyle>
+				</netObj>
+				<netObj draw="true" name="3">
+					<lineStyle>
+						<strokes>
+							<stroke color="ff000000" dashPattern="1" dashWidth="1" width="3"/>
+							<stroke color="ff002866" dashPattern="1" dashWidth="1" width="2.5"/>
+						</strokes>
+					</lineStyle>
+				</netObj>
+				<netObj draw="true" name="30">
+					<lineStyle>
+						<strokes>
+							<stroke color="ff000000" dashPattern="1" dashWidth="1" width="3"/>
+							<stroke color="ff140066" dashPattern="1" dashWidth="1" width="2.5"/>
+						</strokes>
+					</lineStyle>
+				</netObj>
+				<netObj draw="true" name="35">
+					<lineStyle>
+						<strokes>
+							<stroke color="ff000000" dashPattern="1" dashWidth="1" width="3"/>
+							<stroke color="ffff1932" dashPattern="1" dashWidth="1" width="2.5"/>
+						</strokes>
+					</lineStyle>
+				</netObj>
+				<netObj draw="true" name="36">
+					<lineStyle>
+						<strokes>
+							<stroke color="ff000000" dashPattern="1" dashWidth="1" width="3"/>
+							<stroke color="ffff9900" dashPattern="1" dashWidth="1" width="2.5"/>
+						</strokes>
+					</lineStyle>
+				</netObj>
+				<netObj draw="true" name="42">
+					<lineStyle>
+						<strokes>
+							<stroke color="ff000000" dashPattern="1" dashWidth="1" width="3"/>
+							<stroke color="ff66ff00" dashPattern="1" dashWidth="1" width="2.5"/>
+						</strokes>
+					</lineStyle>
+				</netObj>
+				<netObj draw="true" name="43">
+					<lineStyle>
+						<strokes>
+							<stroke color="ff000000" dashPattern="1" dashWidth="1" width="3"/>
+							<stroke color="ff00ff99" dashPattern="1" dashWidth="1" width="2.5"/>
+						</strokes>
+					</lineStyle>
+				</netObj>
+				<netObj draw="true" name="5">
+					<lineStyle>
+						<strokes>
+							<stroke color="ff000000" dashPattern="1" dashWidth="1" width="3"/>
+							<stroke color="ff0019ff" dashPattern="1" dashWidth="1" width="2.5"/>
+						</strokes>
+					</lineStyle>
+				</netObj>
+				<netObj draw="true" name="6">
+					<lineStyle>
+						<strokes>
+							<stroke color="ff000000" dashPattern="1" dashWidth="1" width="3"/>
+							<stroke color="ff9900ff" dashPattern="1" dashWidth="1" width="2.5"/>
+						</strokes>
+					</lineStyle>
+				</netObj>
+				<netObj draw="true" name="7">
+					<lineStyle>
+						<strokes>
+							<stroke color="ff000000" dashPattern="1" dashWidth="1" width="3"/>
+							<stroke color="ffb21123" dashPattern="1" dashWidth="1" width="2.5"/>
+						</strokes>
+					</lineStyle>
+				</netObj>
+				<netObj draw="true" name="9">
+					<lineStyle>
+						<strokes>
+							<stroke color="ff000000" dashPattern="1" dashWidth="1" width="3"/>
+							<stroke color="ffb26b00" dashPattern="1" dashWidth="1" width="2.5"/>
+						</strokes>
+					</lineStyle>
+				</netObj>
+			</lines>
+		</display>
+		<label>
+			<transportSystems adoptColorFromLineStyle="true" draw="false">
+				<text attrID="NAME" drawFrame="true" frameColor="ff000000" numDecPlaces="4" roundValue="1" textColor="ff000000" textSize="1.8" transparent="false">
+					<fontStyle bold="false" fontFamilyName="Arial" italic="false"/>
+				</text>
+			</transportSystems>
+			<mainLines adoptColorFromLineStyle="true" draw="false">
+				<text attrID="NAME" drawFrame="true" frameColor="ff000000" numDecPlaces="4" roundValue="1" textColor="ff000000" textSize="1.8" transparent="false">
+					<fontStyle bold="false" fontFamilyName="Arial" italic="false"/>
+				</text>
+			</mainLines>
+			<lines adoptColorFromLineStyle="false" draw="true">
+				<text attrID="LABEL" drawFrame="true" frameColor="ff000000" numDecPlaces="0" roundValue="1" textColor="ff000000" textSize="3" transparent="false">
+					<fontStyle bold="false" fontFamilyName="Arial" italic="false"/>
+			</text>
+			</lines>
+			<lineRoutes adoptColorFromLineStyle="true" draw="false">
+				<text attrID="NAME" drawFrame="true" frameColor="ff000000" numDecPlaces="4" roundValue="1" textColor="ff000000" textSize="1.8" transparent="false">
+					<fontStyle bold="false" fontFamilyName="Arial" italic="false"/>
+				</text>
+			</lineRoutes>
+			<operators adoptColorFromLineStyle="true" draw="false">
+				<text attrID="NAME" drawFrame="true" frameColor="ff000000" numDecPlaces="4" roundValue="1" textColor="ff000000" textSize="1.8" transparent="false">
+					<fontStyle bold="false" fontFamilyName="Arial" italic="false"/>
+				</text>
+			</operators>
+		</label>
+	</routeCourses>
+</networkGraphicParameters>

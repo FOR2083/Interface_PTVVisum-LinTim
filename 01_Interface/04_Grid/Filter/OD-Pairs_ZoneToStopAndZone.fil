@@ -1,0 +1,30 @@
+<?xml  version = "1.0"  encoding = "UTF-8"?>
+<FILTER  VERSIONNO = "1900">
+  <ZONE    USEFILTER = "0"    COMPLEMENT = "0">
+    <CONDITIONS>
+      <CONDITION        OPERATION = "OP_NONE"        COMPLEMENT = "0">
+        <CONTAINEDIN
+          ATTRIBUTE = "NO"
+          FROMRANGE = "2000"
+          TORANGE = "3000"
+        />        
+      </CONDITION>
+    </CONDITIONS>
+  </ZONE>
+  <ODPAIR
+    USEFILTER = "1"
+    COMPLEMENT = "0"
+    CALCNETWORKVOLUMES = "1">
+    <CONDITIONS>
+      <CONDITION        OPERATION = "OP_NONE"        COMPLEMENT = "0">
+        <EQUALVAL          ATTRIBUTE = "FROMZONE\ADDVAL1"          VALUE = "1"        />        
+      </CONDITION>
+      <CONDITION        OPERATION = "OP_OR"        COMPLEMENT = "0">
+        <EQUALVAL          ATTRIBUTE = "TOZONE\ADDVAL1"          VALUE = "1"        />        
+      </CONDITION>
+    </CONDITIONS>
+  </ODPAIR>
+  <PUTPATH    USEFILTER = "1"    COMPLEMENT = "0">
+    <CONDITIONS    />    
+  </PUTPATH>
+</FILTER>
