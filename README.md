@@ -1,5 +1,5 @@
-# Interface between PTV Visum and LinTim
-The 01_Interface-directory contains a template (00_Dummy) and a example (01_example) for the interface between "[PTV Visum](https://www.ptvgroup.com/de/loesungenprodukte/ptv-visum/)" and "[LinTim](https://www.lintim.net/)" as well as some general scripts and procedure sequences for PTV Visum. The example-files were created with PTV Visum 20. A detailed manual is available too.
+# Summary
+This "Visum to LinTim" interface provides a template (00_Dummy), a example (01_example), several python files and [PTV Visum](https://www.ptvgroup.com/de/loesungenprodukte/ptv-visum/) procedure sequences for reformatting Visum files into a format compatible with [LinTim](https://www.lintim.net/) and vice versa. This makes it possible to combine infrastructure and demand modelling in PTV Visum with creating solutions for public transportation supply in LinTim and comprehensive evaluation back in PTV Visum. The example-files were created with PTV Visum 20. A detailed manual is available too.
 
 # License 
 
