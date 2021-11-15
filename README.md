@@ -3,7 +3,7 @@ This "Visum to LinTim" interface provides a template (00_Dummy), two examples (0
 
 The example-files were created with PTV Visum 20. The python libraries [Pandas](https://pandas.pydata.org/) and [Networkx](https://networkx.org/) are required for running the interface. A detailed manual is available too.
 
-The interface was presented at the PTV-Anwenderseminar 2021. A recording in German is available on [YouTube](https://www.youtube.com/watch?v=lNbBRE3-VDQ).
+The interface was presented at the PTV-Anwenderseminar 2021. A recording in German is available on [YouTube](https://www.youtube.com/watch?v=AMgx6g5g5uw).
 
 # License 
 
