@@ -1,7 +1,9 @@
 # Summary
 This "Visum to LinTim" interface provides a template (00_Dummy), two examples (01_example and 04_Grid), several python files and [PTV Visum](https://www.ptvgroup.com/en/solutions/products/ptv-visum/) procedure sequences for reformatting Visum files into a format compatible with [LinTim](https://www.lintim.net/) and vice versa. This makes it possible to combine infrastructure and demand modelling in PTV Visum with creating solutions for public transportation supply in LinTim and comprehensive evaluation back in PTV Visum.
 
-The example-files were created with PTV Visum 20. The python libraries [Pandas](https://pandas.pydata.org/) and [Networkx](https://networkx.org/) are required for running the interface. A detailed manual is available too. 
+The example-files were created with PTV Visum 20. The python libraries [Pandas](https://pandas.pydata.org/) and [Networkx](https://networkx.org/) are required for running the interface. A detailed manual is available too.
+
+The interface was presented at the PTV-Anwenderseminar 2021. A recording in German is available on [YouTube](https://www.youtube.com/watch?v=lNbBRE3-VDQ).
 
 # License 
 
