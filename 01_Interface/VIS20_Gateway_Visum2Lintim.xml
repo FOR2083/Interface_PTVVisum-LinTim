@@ -2923,6 +2923,26 @@ for node in AllActiveNodes:
     <OPERATION
       NO = "42"
       CODE = ""
+      OPERATIONTYPE = "ReadFilter"
+      ACTIVE = "1"
+      COMMENT = "Filter added zones for connectors creation"
+      EXECUTED = "0"
+      STARTTIME = ""
+      ENDTIME = ""
+      DURATION = ""
+      MESSAGES = ""
+      RESULTMESSAGE = ""
+      SUCCESS = "0"
+      COMPUTENODES = ""
+      WARNINGCOUNT = ""
+      ERRORCOUNT = ""
+      INFORMATIONCOUNT = ""
+      OPERATIONVARIABLECOUNT = "">
+      <READFILTERPARA        FILENAME = "Additional_Zones.fil"      />      
+    </OPERATION>
+    <OPERATION
+      NO = "43"
+      CODE = ""
       OPERATIONTYPE = "Script"
       ACTIVE = "1"
       COMMENT = "Create Connectors at Stops"
@@ -2943,12 +2963,31 @@ for node in AllActiveNodes:
         FILENAME = ""
         USEINTERNALSCRIPTCODE = "1">
         <INTERNALSCRIPTCODE>
-<![CDATA[Visum.Net.CreateODConnectors(PrTorPuT=1, MaxLength=100, MaxNumConnectorsPerZoneCreatedInThisStep=2, MaxNumConnectorsPerZoneTotal=2, TypeOfNewConnectors=0)]]>
+<![CDATA[Visum.Net.CreateODConnectors(PrTorPuT=1, MaxLength=100, MaxNumConnectorsPerZoneCreatedInThisStep=1, MaxNumConnectorsPerZoneTotal=2, TypeOfNewConnectors=0)]]>
         </INTERNALSCRIPTCODE>
       </EXECUTESCRIPTPARA>
     </OPERATION>
     <OPERATION
-      NO = "43"
+      NO = "44"
+      CODE = ""
+      OPERATIONTYPE = "InitAllFilters"
+      ACTIVE = "1"
+      COMMENT = "Init"
+      EXECUTED = "0"
+      STARTTIME = ""
+      ENDTIME = ""
+      DURATION = ""
+      MESSAGES = ""
+      RESULTMESSAGE = ""
+      SUCCESS = "0"
+      COMPUTENODES = ""
+      WARNINGCOUNT = ""
+      ERRORCOUNT = ""
+      INFORMATIONCOUNT = ""
+      OPERATIONVARIABLECOUNT = ""
+    />    
+    <OPERATION
+      NO = "45"
       CODE = ""
       OPERATIONTYPE = "ReadFilter"
       ACTIVE = "1"
@@ -2968,7 +3007,7 @@ for node in AllActiveNodes:
       <READFILTERPARA        FILENAME = "Walking_allowed.fil"      />      
     </OPERATION>
     <OPERATION
-      NO = "44"
+      NO = "46"
       CODE = ""
       OPERATIONTYPE = "EditAttribute"
       ACTIVE = "1"
@@ -2994,7 +3033,7 @@ for node in AllActiveNodes:
       />      
     </OPERATION>
     <OPERATION
-      NO = "45"
+      NO = "47"
       CODE = ""
       OPERATIONTYPE = "EditAttribute"
       ACTIVE = "1"
@@ -3020,7 +3059,7 @@ for node in AllActiveNodes:
       />      
     </OPERATION>
     <OPERATION
-      NO = "46"
+      NO = "48"
       CODE = ""
       OPERATIONTYPE = "EditAttribute"
       ACTIVE = "1"
@@ -3046,7 +3085,7 @@ for node in AllActiveNodes:
       />      
     </OPERATION>
     <OPERATION
-      NO = "47"
+      NO = "49"
       CODE = ""
       OPERATIONTYPE = "EditAttribute"
       ACTIVE = "1"
@@ -3072,7 +3111,7 @@ for node in AllActiveNodes:
       />      
     </OPERATION>
     <OPERATION
-      NO = "48"
+      NO = "50"
       CODE = ""
       OPERATIONTYPE = "CombinationOfMatrices"
       ACTIVE = "1"
@@ -3092,7 +3131,7 @@ for node in AllActiveNodes:
       <MATRIXFORMULAPARA        FORMULA = "Matrix([NO] = 66):=1"      />      
     </OPERATION>
     <OPERATION
-      NO = "49"
+      NO = "51"
       CODE = ""
       OPERATIONTYPE = "InitAssignment"
       ACTIVE = "1"
@@ -3112,7 +3151,7 @@ for node in AllActiveNodes:
       <ASSIGNMENTINITPARA        INITPUT = "1"        INITPRT = "1"      />      
     </OPERATION>
     <OPERATION
-      NO = "50"
+      NO = "52"
       CODE = ""
       OPERATIONTYPE = "PuTAssignment"
       ACTIVE = "1"
@@ -3570,7 +3609,7 @@ for node in AllActiveNodes:
       </PUTASSIGNMENTPARABASE>
     </OPERATION>
     <OPERATION
-      NO = "51"
+      NO = "53"
       CODE = ""
       OPERATIONTYPE = "AddIn"
       ACTIVE = "1"
@@ -3590,7 +3629,7 @@ for node in AllActiveNodes:
       <ADDINPARA        ADDINID = "PTV_SETDIAGONAL"        ADDINPARAMETER = "(dp1&#xA;S&apos;Src&apos;&#xA;p2&#xA;S&apos;CONST&apos;&#xA;p3&#xA;sS&apos;Const&apos;&#xA;p4&#xA;F0&#xA;sS&apos;Matrix&apos;&#xA;p5&#xA;F267&#xA;sS&apos;SrcAttr&apos;&#xA;p6&#xA;S&apos;ADDVAL1&apos;&#xA;p7&#xA;sS&apos;Factor&apos;&#xA;p8&#xA;F1&#xA;sS&apos;NumNeighbor&apos;&#xA;p9&#xA;I1&#xA;s."      />      
     </OPERATION>
     <OPERATION
-      NO = "52"
+      NO = "54"
       CODE = ""
       OPERATIONTYPE = "InitAllFilters"
       ACTIVE = "1"
@@ -3609,7 +3648,7 @@ for node in AllActiveNodes:
       OPERATIONVARIABLECOUNT = ""
     />    
     <OPERATION
-      NO = "53"
+      NO = "55"
       CODE = ""
       OPERATIONTYPE = "ReadFilter"
       ACTIVE = "1"
@@ -3629,7 +3668,7 @@ for node in AllActiveNodes:
       <READFILTERPARA        FILENAME = "OD-Pairs_ZoneToStopAndZone.fil"      />      
     </OPERATION>
     <OPERATION
-      NO = "54"
+      NO = "56"
       CODE = ""
       OPERATIONTYPE = "Script"
       ACTIVE = "1"
@@ -3679,7 +3718,7 @@ my_od_list = my_od_list.SaveToAttributeFile(FileName=sep_directory.join([folder_
       </EXECUTESCRIPTPARA>
     </OPERATION>
     <OPERATION
-      NO = "55"
+      NO = "57"
       CODE = ""
       OPERATIONTYPE = "Script"
       ACTIVE = "1"
@@ -3732,7 +3771,7 @@ file.close()
       </EXECUTESCRIPTPARA>
     </OPERATION>
     <OPERATION
-      NO = "56"
+      NO = "58"
       CODE = ""
       OPERATIONTYPE = "OpenMatrix"
       ACTIVE = "1"
@@ -3756,7 +3795,7 @@ file.close()
       />      
     </OPERATION>
     <OPERATION
-      NO = "57"
+      NO = "59"
       CODE = ""
       OPERATIONTYPE = "EditAttribute"
       ACTIVE = "1"
@@ -3782,7 +3821,7 @@ file.close()
       />      
     </OPERATION>
     <OPERATION
-      NO = "58"
+      NO = "60"
       CODE = ""
       OPERATIONTYPE = "InitAllFilters"
       ACTIVE = "1"
@@ -3801,7 +3840,7 @@ file.close()
       OPERATIONVARIABLECOUNT = ""
     />    
     <OPERATION
-      NO = "59"
+      NO = "61"
       CODE = ""
       OPERATIONTYPE = "ReadFilter"
       ACTIVE = "1"
@@ -3821,7 +3860,7 @@ file.close()
       <READFILTERPARA        FILENAME = "Additional_Zones.fil"      />      
     </OPERATION>
     <OPERATION
-      NO = "60"
+      NO = "62"
       CODE = ""
       OPERATIONTYPE = "Script"
       ACTIVE = "1"
@@ -3855,7 +3894,7 @@ Visum.Net.Links.DeleteUserDefinedAttribute(ID=att_name)]]>
       </EXECUTESCRIPTPARA>
     </OPERATION>
     <OPERATION
-      NO = "61"
+      NO = "63"
       CODE = ""
       OPERATIONTYPE = "Script"
       ACTIVE = "1"
@@ -3908,7 +3947,7 @@ os.remove(file_tmp)
       </EXECUTESCRIPTPARA>
     </OPERATION>
     <OPERATION
-      NO = "62"
+      NO = "64"
       CODE = ""
       OPERATIONTYPE = "InitAllFilters"
       ACTIVE = "1"
