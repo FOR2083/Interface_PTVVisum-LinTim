@@ -1121,23 +1121,104 @@
         <ATTRIBUTE          NAME = "VDFUNCTIONNO_LINKTYPE">
           <ATTRITEM            SUBATTR1 = "0"            VALUE = "1"          />          
           <ATTRITEM            SUBATTR1 = "1"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "2"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "3"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "4"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "5"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "6"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "7"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "8"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "9"            VALUE = "1"          />          
           <ATTRITEM            SUBATTR1 = "10"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "11"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "12"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "13"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "14"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "15"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "16"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "17"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "18"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "19"            VALUE = "1"          />          
           <ATTRITEM            SUBATTR1 = "20"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "21"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "22"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "23"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "24"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "25"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "26"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "27"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "28"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "29"            VALUE = "1"          />          
           <ATTRITEM            SUBATTR1 = "30"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "31"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "32"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "33"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "34"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "35"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "36"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "37"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "38"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "39"            VALUE = "1"          />          
           <ATTRITEM            SUBATTR1 = "40"            VALUE = "1"          />          
           <ATTRITEM            SUBATTR1 = "41"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "42"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "43"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "44"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "45"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "46"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "47"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "48"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "49"            VALUE = "1"          />          
           <ATTRITEM            SUBATTR1 = "50"            VALUE = "1"          />          
           <ATTRITEM            SUBATTR1 = "51"            VALUE = "1"          />          
           <ATTRITEM            SUBATTR1 = "52"            VALUE = "1"          />          
           <ATTRITEM            SUBATTR1 = "53"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "54"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "55"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "56"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "57"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "58"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "59"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "60"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "61"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "62"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "63"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "64"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "65"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "66"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "67"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "68"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "69"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "70"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "71"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "72"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "73"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "74"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "75"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "76"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "77"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "78"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "79"            VALUE = "1"          />          
           <ATTRITEM            SUBATTR1 = "80"            VALUE = "1"          />          
           <ATTRITEM            SUBATTR1 = "81"            VALUE = "1"          />          
           <ATTRITEM            SUBATTR1 = "82"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "83"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "84"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "85"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "86"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "87"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "88"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "89"            VALUE = "1"          />          
           <ATTRITEM            SUBATTR1 = "90"            VALUE = "1"          />          
           <ATTRITEM            SUBATTR1 = "91"            VALUE = "1"          />          
           <ATTRITEM            SUBATTR1 = "92"            VALUE = "1"          />          
           <ATTRITEM            SUBATTR1 = "93"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "94"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "95"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "96"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "97"            VALUE = "1"          />          
           <ATTRITEM            SUBATTR1 = "98"            VALUE = "1"          />          
+          <ATTRITEM            SUBATTR1 = "99"            VALUE = "1"          />          
         </ATTRIBUTE>
       </VDFUNCTIONS>
     </VDFUNCTIONSPARAMETERS>
@@ -1636,6 +1717,8 @@
     <PATHSEQUENCESKIMMATRIXSETTINGS    />    
     <VOLUMESPARA      ORIGDSEG = "PuT"      SAVEASDSEG = "PuT"    />    
     <VOLUMESPARA      ORIGDSEG = "PuT-mPH 4h"      SAVEASDSEG = "PuT-mPH 4h"    />    
+    <VOLUMESPARA      ORIGDSEG = "PuT_TS"      SAVEASDSEG = "PuT_TS"    />    
+    <VOLUMESPARA      ORIGDSEG = "PuT_TT"      SAVEASDSEG = "PuT_TT"    />    
     <VOLUMEMATRIXPARA
       CREATEFLOWBUNDLEFORMULAMATRICES = "1"
       FLOWBUNDLEFORMULAMATRIXCODE = "FlowBundle"
@@ -1684,13 +1767,13 @@
       OPERATIONTYPE = "Group"
       ACTIVE = "1"
       COMMENT = "VIS20_Gateway_LinTim2Visum"
-      EXECUTED = "1"
-      STARTTIME = "2021-10-26 15:43:2"
-      ENDTIME = "2021-10-26 15:43:2"
-      DURATION = "0min"
+      EXECUTED = "0"
+      STARTTIME = ""
+      ENDTIME = ""
+      DURATION = ""
       MESSAGES = ""
       RESULTMESSAGE = ""
-      SUCCESS = "1"
+      SUCCESS = "0"
       COMPUTENODES = ""
       WARNINGCOUNT = ""
       ERRORCOUNT = ""
@@ -1725,9 +1808,9 @@
       ACTIVE = "1"
       COMMENT = "load project directory automatically if Visum Instance is opened via double click"
       EXECUTED = "1"
-      STARTTIME = "2021-10-26 15:43:4"
-      ENDTIME = "2021-10-26 15:43:4"
-      DURATION = "0min"
+      STARTTIME = "2023-10-10 16:37:59"
+      ENDTIME = "2023-10-10 16:38:1"
+      DURATION = "3s"
       MESSAGES = ""
       RESULTMESSAGE = ""
       SUCCESS = "1"
@@ -1795,10 +1878,10 @@ Visum.SetPath(12, folder_path_uni)	# procedure settings file
       ACTIVE = "1"
       COMMENT = "create all necessary UDA if they don&apos;t exist"
       EXECUTED = "1"
-      STARTTIME = "2021-10-26 15:44:15"
-      ENDTIME = "2021-10-26 15:44:15"
+      STARTTIME = "2023-10-10 16:52:46"
+      ENDTIME = "2023-10-10 16:52:46"
       DURATION = "0min"
-      MESSAGES = "For Network, an attribute with ID SCENARIO_NAME already exists.&#xA;AddUserDefinedAttribute failed: For Network, an attribute with ID SCENARIO_NAME already exists.&#xA;For Network, an attribute with ID INSTANCE_NAME already exists.&#xA;AddUserDefinedAttribute failed: For Network, an attribute with ID INSTANCE_NAME already exists.&#xA;For Network, an attribute with ID LINTIM_VERSION_NAME already exists.&#xA;AddUserDefinedAttribute failed: For Network, an attribute with ID LINTIM_VERSION_NAME already exists.&#xA;"
+      MESSAGES = "For Network, an attribute with ID SCENARIO_NAME already exists.&#xA;AddUserDefinedAttribute failed: For Network, an attribute with ID SCENARIO_NAME already exists.&#xA;For Network, an attribute with ID INSTANCE_NAME already exists.&#xA;AddUserDefinedAttribute failed: For Network, an attribute with ID INSTANCE_NAME already exists.&#xA;For Network, an attribute with ID LINTIM_VERSION_NAME already exists.&#xA;AddUserDefinedAttribute failed: For Network, an attribute with ID LINTIM_VERSION_NAME already exists.&#xA;For Network, an attribute with ID LINTIM_TSYS_FOR_ADAPTING already exists.&#xA;AddUserDefinedAttribute failed: For Network, an attribute with ID LINTIM_TSYS_FOR_ADAPTING already exists.&#xA;For Network, an attribute with ID LINTIM_TIME_UNITS_PER_MINUTE already exists.&#xA;AddUserDefinedAttribute failed: For Network, an attribute with ID LINTIM_TIME_UNITS_PER_MINUTE already exists.&#xA;"
       RESULTMESSAGE = ""
       SUCCESS = "1"
       COMPUTENODES = ""
@@ -1855,7 +1938,10 @@ def addStaticUDA( name="dummy", object="net", type="float"):
 # e.g:      ["dummy", "links", "float"]
 list_UDA = [["scenario_name", "Net", "str"],
             ["instance_name", "net", "str"],
-            ["LINTIM_VERSION_NAME", "net", "str"]
+            ["LINTIM_VERSION_NAME", "net", "str"],
+            ["lintim_tsys_for_adapting", "Net", "str"],
+            ["lintim_time_units_per_minute", "net", "int"],
+            ["lintim_period_length", "net", "int"]
             ]
 
 for uda in list_UDA:
@@ -1891,8 +1977,8 @@ for uda in list_UDA:
       ACTIVE = "1"
       COMMENT = "set name of scenario"
       EXECUTED = "1"
-      STARTTIME = "2021-10-26 15:44:16"
-      ENDTIME = "2021-10-26 15:44:16"
+      STARTTIME = "2023-10-10 16:47:10"
+      ENDTIME = "2023-10-10 16:47:10"
       DURATION = "0min"
       MESSAGES = ""
       RESULTMESSAGE = "Network: One object was changed. "
@@ -1907,7 +1993,7 @@ for uda in list_UDA:
         INCLUDESUBCATEGORIES = "0"
         RESULTATTRNAME = "SCENARIO_NAME"
         ONLYACTIVE = "0"
-        FORMULA = "&quot;01_example&quot; "
+        FORMULA = "&quot;02_Grid&quot; "
       />      
     </OPERATION>
     <OPERATION
@@ -1917,8 +2003,8 @@ for uda in list_UDA:
       ACTIVE = "1"
       COMMENT = "set name of instance"
       EXECUTED = "1"
-      STARTTIME = "2021-10-26 15:44:17"
-      ENDTIME = "2021-10-26 15:44:17"
+      STARTTIME = "2023-10-10 16:47:11"
+      ENDTIME = "2023-10-10 16:47:11"
       DURATION = "0min"
       MESSAGES = ""
       RESULTMESSAGE = "Network: One object was changed. "
@@ -1933,7 +2019,7 @@ for uda in list_UDA:
         INCLUDESUBCATEGORIES = "0"
         RESULTATTRNAME = "INSTANCE_NAME"
         ONLYACTIVE = "0"
-        FORMULA = "&quot;I_1&quot;"
+        FORMULA = "&quot;I_2&quot;"
       />      
     </OPERATION>
     <OPERATION
@@ -1943,8 +2029,8 @@ for uda in list_UDA:
       ACTIVE = "1"
       COMMENT = "set LinTim version name to import"
       EXECUTED = "1"
-      STARTTIME = "2021-10-26 15:44:18"
-      ENDTIME = "2021-10-26 15:44:18"
+      STARTTIME = "2023-10-10 16:47:12"
+      ENDTIME = "2023-10-10 16:47:12"
       DURATION = "0min"
       MESSAGES = ""
       RESULTMESSAGE = "Network: One object was changed. "
@@ -1959,11 +2045,89 @@ for uda in list_UDA:
         INCLUDESUBCATEGORIES = "0"
         RESULTATTRNAME = "LINTIM_VERSION_NAME"
         ONLYACTIVE = "0"
-        FORMULA = "&quot;A_Master&quot;&#xA;&#xA;"
+        FORMULA = "&quot;A_1&quot;&#xA;&#xA;"
       />      
     </OPERATION>
     <OPERATION
       NO = "10"
+      CODE = ""
+      OPERATIONTYPE = "EditAttribute"
+      ACTIVE = "1"
+      COMMENT = ""
+      EXECUTED = "1"
+      STARTTIME = "2023-10-10 16:47:13"
+      ENDTIME = "2023-10-10 16:47:13"
+      DURATION = "0min"
+      MESSAGES = ""
+      RESULTMESSAGE = "Network: One object was changed. "
+      SUCCESS = "1"
+      COMPUTENODES = ""
+      WARNINGCOUNT = ""
+      ERRORCOUNT = ""
+      INFORMATIONCOUNT = ""
+      OPERATIONVARIABLECOUNT = "">
+      <ATTRIBUTEFORMULAPARA
+        NETOBJECTTYPE = "NETWORK"
+        INCLUDESUBCATEGORIES = "0"
+        RESULTATTRNAME = "LINTIM_TSYS_FOR_ADAPTING"
+        ONLYACTIVE = "0"
+        FORMULA = "&quot;B&quot;"
+      />      
+    </OPERATION>
+    <OPERATION
+      NO = "11"
+      CODE = ""
+      OPERATIONTYPE = "EditAttribute"
+      ACTIVE = "1"
+      COMMENT = ""
+      EXECUTED = "1"
+      STARTTIME = "2023-10-10 16:53:15"
+      ENDTIME = "2023-10-10 16:53:15"
+      DURATION = "0min"
+      MESSAGES = ""
+      RESULTMESSAGE = "Network: One object was changed. "
+      SUCCESS = "1"
+      COMPUTENODES = ""
+      WARNINGCOUNT = ""
+      ERRORCOUNT = ""
+      INFORMATIONCOUNT = ""
+      OPERATIONVARIABLECOUNT = "">
+      <ATTRIBUTEFORMULAPARA
+        NETOBJECTTYPE = "NETWORK"
+        INCLUDESUBCATEGORIES = "0"
+        RESULTATTRNAME = "LINTIM_TIME_UNITS_PER_MINUTE"
+        ONLYACTIVE = "0"
+        FORMULA = "60"
+      />      
+    </OPERATION>
+    <OPERATION
+      NO = "12"
+      CODE = ""
+      OPERATIONTYPE = "EditAttribute"
+      ACTIVE = "1"
+      COMMENT = ""
+      EXECUTED = "1"
+      STARTTIME = "2023-10-10 16:53:16"
+      ENDTIME = "2023-10-10 16:53:16"
+      DURATION = "0min"
+      MESSAGES = ""
+      RESULTMESSAGE = "Network: One object was changed. "
+      SUCCESS = "1"
+      COMPUTENODES = ""
+      WARNINGCOUNT = ""
+      ERRORCOUNT = ""
+      INFORMATIONCOUNT = ""
+      OPERATIONVARIABLECOUNT = "">
+      <ATTRIBUTEFORMULAPARA
+        NETOBJECTTYPE = "NETWORK"
+        INCLUDESUBCATEGORIES = "0"
+        RESULTATTRNAME = "LINTIM_PERIOD_LENGTH"
+        ONLYACTIVE = "0"
+        FORMULA = "3600"
+      />      
+    </OPERATION>
+    <OPERATION
+      NO = "13"
       CODE = ""
       OPERATIONTYPE = "Group"
       ACTIVE = "1"
@@ -1983,37 +2147,37 @@ for uda in list_UDA:
       <GROUPPARA        ISEXPANDED = "1"      />      
     </OPERATION>
     <OPERATION
-      NO = "11"
+      NO = "14"
       CODE = ""
       OPERATIONTYPE = "InitAllFilters"
       ACTIVE = "1"
       COMMENT = "Init"
       EXECUTED = "1"
-      STARTTIME = "2021-10-26 15:44:23"
-      ENDTIME = "2021-10-26 15:44:23"
+      STARTTIME = "2023-10-10 16:47:14"
+      ENDTIME = "2023-10-10 16:47:14"
       DURATION = "0min"
       MESSAGES = ""
       RESULTMESSAGE = ""
       SUCCESS = "1"
       COMPUTENODES = ""
-      WARNINGCOUNT = "0"
-      ERRORCOUNT = "0"
-      INFORMATIONCOUNT = "0"
+      WARNINGCOUNT = ""
+      ERRORCOUNT = ""
+      INFORMATIONCOUNT = ""
       OPERATIONVARIABLECOUNT = ""
     />    
     <OPERATION
-      NO = "12"
+      NO = "15"
       CODE = ""
       OPERATIONTYPE = "Script"
       ACTIVE = "1"
       COMMENT = "delete all lines except of non-optimized supply"
-      EXECUTED = "0"
-      STARTTIME = ""
-      ENDTIME = ""
-      DURATION = ""
+      EXECUTED = "1"
+      STARTTIME = "2023-10-10 16:47:15"
+      ENDTIME = "2023-10-10 16:47:15"
+      DURATION = "0min"
       MESSAGES = ""
       RESULTMESSAGE = ""
-      SUCCESS = "0"
+      SUCCESS = "1"
       COMPUTENODES = ""
       WARNINGCOUNT = ""
       ERRORCOUNT = ""
@@ -2037,18 +2201,18 @@ Visum.Net.LineRoutes.RemoveAll(OnlyActive=False)	# delete line routes]]>
       </EXECUTESCRIPTPARA>
     </OPERATION>
     <OPERATION
-      NO = "13"
+      NO = "16"
       CODE = ""
       OPERATIONTYPE = "Script"
       ACTIVE = "1"
       COMMENT = "public transport"
-      EXECUTED = "0"
-      STARTTIME = ""
-      ENDTIME = ""
-      DURATION = ""
-      MESSAGES = ""
+      EXECUTED = "1"
+      STARTTIME = "2023-10-10 16:53:20"
+      ENDTIME = "2023-10-10 16:53:23"
+      DURATION = "3s"
+      MESSAGES = "This change cannot be made for 60 objects.&#xA;Object 10;10H;&gt;;1: Attribute Is route point cannot be changed.&#xA;Object 10;10H;&gt;;7: Attribute Is route point cannot be changed.&#xA;Object 10;10R;&lt;;1: Attribute Is route point cannot be changed.&#xA;Object 10;10R;&lt;;7: Attribute Is route point cannot be changed.&#xA;Object 11;11H;&gt;;1: Attribute Is route point cannot be changed.&#xA;Object 11;11H;&gt;;7: Attribute Is route point cannot be changed.&#xA;Object 11;11R;&lt;;1: Attribute Is route point cannot be changed.&#xA;Object 11;11R;&lt;;7: Attribute Is route point cannot be changed.&#xA;Object 14;14H;&gt;;1: Attribute Is route point cannot be changed.&#xA;... (51 additional messages)&#xA;"
       RESULTMESSAGE = ""
-      SUCCESS = "0"
+      SUCCESS = "1"
       COMPUTENODES = ""
       WARNINGCOUNT = ""
       ERRORCOUNT = ""
@@ -2064,7 +2228,7 @@ Visum.Net.LineRoutes.RemoveAll(OnlyActive=False)	# delete line routes]]>
       </EXECUTESCRIPTPARA>
     </OPERATION>
     <OPERATION
-      NO = "14"
+      NO = "17"
       CODE = ""
       OPERATIONTYPE = "Group"
       ACTIVE = "0"
@@ -2084,18 +2248,18 @@ Visum.Net.LineRoutes.RemoveAll(OnlyActive=False)	# delete line routes]]>
       <GROUPPARA        ISEXPANDED = "1"      />      
     </OPERATION>
     <OPERATION
-      NO = "15"
+      NO = "18"
       CODE = ""
       OPERATIONTYPE = "InitAllFilters"
       ACTIVE = "1"
       COMMENT = "Init"
-      EXECUTED = "0"
-      STARTTIME = ""
-      ENDTIME = ""
-      DURATION = ""
+      EXECUTED = "1"
+      STARTTIME = "2023-10-10 16:54:53"
+      ENDTIME = "2023-10-10 16:54:53"
+      DURATION = "0min"
       MESSAGES = ""
       RESULTMESSAGE = ""
-      SUCCESS = "0"
+      SUCCESS = "1"
       COMPUTENODES = ""
       WARNINGCOUNT = ""
       ERRORCOUNT = ""
@@ -2103,22 +2267,22 @@ Visum.Net.LineRoutes.RemoveAll(OnlyActive=False)	# delete line routes]]>
       OPERATIONVARIABLECOUNT = ""
     />    
     <OPERATION
-      NO = "16"
+      NO = "19"
       CODE = ""
       OPERATIONTYPE = "Script"
       ACTIVE = "1"
       COMMENT = "creates *.gpax graphic parameter given PuT lines"
-      EXECUTED = "0"
-      STARTTIME = ""
-      ENDTIME = ""
-      DURATION = ""
+      EXECUTED = "1"
+      STARTTIME = "2023-10-10 16:58:2"
+      ENDTIME = "2023-10-10 16:58:2"
+      DURATION = "0min"
       MESSAGES = ""
       RESULTMESSAGE = ""
-      SUCCESS = "0"
+      SUCCESS = "1"
       COMPUTENODES = ""
-      WARNINGCOUNT = ""
-      ERRORCOUNT = ""
-      INFORMATIONCOUNT = ""
+      WARNINGCOUNT = "0"
+      ERRORCOUNT = "0"
+      INFORMATIONCOUNT = "0"
       OPERATIONVARIABLECOUNT = "">
       <EXECUTESCRIPTPARA
         SCRIPTINGENVIRONMENT = "Python 3.7"
@@ -2130,10 +2294,10 @@ Visum.Net.LineRoutes.RemoveAll(OnlyActive=False)	# delete line routes]]>
       </EXECUTESCRIPTPARA>
     </OPERATION>
     <OPERATION
-      NO = "17"
+      NO = "20"
       CODE = ""
       OPERATIONTYPE = "Group"
-      ACTIVE = "0"
+      ACTIVE = "1"
       COMMENT = "save version"
       EXECUTED = "0"
       STARTTIME = ""
@@ -2150,7 +2314,7 @@ Visum.Net.LineRoutes.RemoveAll(OnlyActive=False)	# delete line routes]]>
       <GROUPPARA        ISEXPANDED = "1"      />      
     </OPERATION>
     <OPERATION
-      NO = "18"
+      NO = "21"
       CODE = ""
       OPERATIONTYPE = "Script"
       ACTIVE = "1"
