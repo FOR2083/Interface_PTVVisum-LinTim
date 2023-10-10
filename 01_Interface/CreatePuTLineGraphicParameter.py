@@ -361,7 +361,7 @@ lintim_version_name = Visum.Net.AttValue("lintim_version_name")
 name_gpar = scenario_name + "_" + "Lines" + "_" + lintim_version_name
 
 # write graphic parameter file
-with open( folder_paths.graphicparameter + name_gpar + ".gpa", "w") as f:
+with open( folder_paths.graphicparameter + name_gpar + ".gpax", "w") as f:
     f.write(gpa.header)
     lines = Visum.Net.Lines.GetMultiAttValues("NAME")
     index = 0
@@ -398,5 +398,5 @@ with open( folder_paths.graphicparameter + name_gpar + ".gpa", "w") as f:
     f.write(gpa.footer)
 
 # Read graphic parameter file
-Visum.Net.GraphicParameters.OpenXml(sep_folder.join([folder_paths.graphicparameter, name_gpar + ".gpa"]))
+Visum.Net.GraphicParameters.OpenXml(sep_folder.join([folder_paths.graphicparameter, name_gpar + ".gpax"]))
 
