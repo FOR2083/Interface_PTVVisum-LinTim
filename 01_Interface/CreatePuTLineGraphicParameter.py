@@ -335,19 +335,6 @@ class VisumLineRoute:
                                       1,
                                       3]
 
-""" Visum Start
-- enables the usage in the procedure sequence or as Visum instance
-- name of the Visum version that is opened
-"""
-try:
-    global Visum
-    Visum
-except NameError:
-    import win32com.client as com
-
-    Visum = com.Dispatch("Visum.Visum")
-    name = r'E:\Seafile\36_VRS\Version\36_VRS_Lines_A_2b_2_1_2_2-ct_SR2.ver'
-    Visum.LoadVersion(name)
 
 ## set attributes
 # define separator of folder in folder pathes
@@ -361,7 +348,7 @@ lintim_version_name = Visum.Net.AttValue("lintim_version_name")
 name_gpar = scenario_name + "_" + "Lines" + "_" + lintim_version_name
 
 # write graphic parameter file
-with open( folder_paths.graphicparameter + name_gpar + ".gpax", "w") as f:
+with open( folder_paths.graphicparameter + name_gpar + ".gpa", "w") as f:
     f.write(gpa.header)
     lines = Visum.Net.Lines.GetMultiAttValues("NAME")
     index = 0
@@ -398,5 +385,5 @@ with open( folder_paths.graphicparameter + name_gpar + ".gpax", "w") as f:
     f.write(gpa.footer)
 
 # Read graphic parameter file
-Visum.Net.GraphicParameters.OpenXml(sep_folder.join([folder_paths.graphicparameter, name_gpar + ".gpax"]))
+Visum.Net.GraphicParameters.OpenXml(sep_folder.join([folder_paths.graphicparameter, name_gpar + ".gpa"]))
 

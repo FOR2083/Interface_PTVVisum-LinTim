@@ -330,7 +330,8 @@ flag_walktime_between_zones = True
 Visum = open_visum(str_version)
 
 # path to opened Visum file (filenamepath), cut level to main folder level
-folder_path = Visum.GetPath(2).rsplit(sep_directory, 2)[0]
+folder_path = Visum.UserPreferences.DocumentName.rsplit(sep_directory, 2)[
+    0]
 
 name_instance = Visum.Net.AttValue("instance_name")
 name_scenario = Visum.Net.AttValue("scenario_name")

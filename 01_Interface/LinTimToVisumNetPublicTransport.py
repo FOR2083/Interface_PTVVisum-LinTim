@@ -360,7 +360,7 @@ class TimetableReader:
 
 def import_net2visum(path_net):
     # create NetRouteSearchTSys-Object and choose route search options
-    NetReadRouteSearchTSysController = Visum.CreateNetReadRouteSearchTSys()
+    NetReadRouteSearchTSysController = Visum.IO.CreateNetReadRouteSearchTSys()
     NetReadRouteSearchTSysController.SetAttValue("HOWTOHANDLEINCOMPLETEROUTE", "SEARCHSHORTESTPATH")
     NetReadRouteSearchTSysController.SetAttValue("SHORTESTPATHCRITERION", 2)
     NetReadRouteSearchTSysController.SetAttValue("INCLUDEBLOCKEDLINKS", False)
@@ -370,16 +370,16 @@ def import_net2visum(path_net):
     NetReadRouteSearchTSysController.SetAttValue("LINKTYPEFORINSERTEDLINKSREPLACINGMISSINGSHORTESTPATHS", 98)
 
     # create NetRouteSearch-Object and assign NetRouteSearchTSys-objects
-    NetReadRouteSearchController = Visum.CreateNetReadRouteSearch()
+    NetReadRouteSearchController = Visum.IO.CreateNetReadRouteSearch()
     NetReadRouteSearchController.SetForAllTSys(NetReadRouteSearchTSysController)
 
     # create AddNetRead-Object and specify desired conflict avoiding method
-    AddNetReadController = Visum.CreateAddNetReadController
+    AddNetReadController = Visum.IO.CreateAddNetReadController()
     AddNetReadController.SetWhatToDo("Network", 5)
 
     Visum.IO.LoadNet(NetFile=path_net,
                      ReadAdditive=True,
-                     routeSearch=NetReadRouteSearchController,
+                     RouteSearch=NetReadRouteSearchController,
                      AddNetRead=AddNetReadController)
 
 # ======== CORE =========
